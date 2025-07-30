@@ -5,7 +5,8 @@ import ThemeToggle from './components/ThemeToggle';
 import FiveDayForecast from './components/FiveDayForecast';
 import ErrorModal from './components/ErrorModal';
 import AnimatedWeatherBG from './components/AnimatedWeatherBG';
-import { OPENWEATHER_API_KEY } from './config';
+const OPENWEATHER_API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
+
 import './App.css';
 
 const getBackground = (weather) => {
