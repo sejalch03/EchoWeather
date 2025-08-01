@@ -15,3 +15,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # EchoWeather
 This is a simple and responsive weather application built with React.js that allows users to check the current weather conditions of any city in the world. It utilizes the OpenWeatherMap API to fetch real-time weather data, including temperature, weather condition,  humidity, pressure, visibility and wind speed.
 >>>>>>> 90ea0f3c02ebe1f47977cff4e07ef3105bb1e8ea
+[Download the PowerPoint presentation](./src/assets/EchoWeather (3).pptx)
